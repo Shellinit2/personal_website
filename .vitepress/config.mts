@@ -2,7 +2,6 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/shellinit2.github.io',
   title: "Shellinit2",
   description: "Personal website and Blogs",
   themeConfig: {
