@@ -8,5 +8,5 @@ This is to make my distrohopping/ reinstallations easy
 
 ::: info Thinking
 Still havent thought of anything 
--[Lets see when I think of posting](./temp.md)
+-[Lets see when I think of posting]()
 :::
