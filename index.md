@@ -9,10 +9,10 @@ hero:
   actions:
     - theme: brand
       text: Projects
-      link: /projects
+      link: /projects/
     - theme: alt
       text: Blogs
-      link: /blogs
+      link: /blogs/
 
 features:
   - title: Robotics [Cobots, Mobile robots, Manipulators, UAVs]
